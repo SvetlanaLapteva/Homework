@@ -10,4 +10,4 @@ else{
     Console.WriteLine("{0} наибольшее число", b);
     Console.WriteLine("{0} наименьшее число", a);
 }
-Console.ReadLine();
+
